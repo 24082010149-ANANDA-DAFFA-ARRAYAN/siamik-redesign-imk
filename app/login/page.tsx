@@ -131,7 +131,7 @@ export default function LoginPage() {
               <p className="text-xs text-muted-foreground text-center">
                 Demo Credentials:
                 <br />
-                <span className="font-mono">User: 24082010149 / user123</span>
+                <span className="font-mono">User: kelompok6 / user123</span>
                 <br />
                 <span className="font-mono">Admin: admin / admin123</span>
               </p>
